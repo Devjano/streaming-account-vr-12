@@ -14,7 +14,7 @@ jano.on("ready", () => {
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
     jano.user.setActivity(STREAMING, {      
-    type: "playing", 
+    type: "STREAMING", 
     url: "https://www.twitch.tv/faith"
     });
   }, 2000);
