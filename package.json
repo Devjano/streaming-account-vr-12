@@ -1,7 +1,7 @@
 {
   "name": "jano",
   "version": "2.1.0",
-  "description": "jano",
+  "description": "PALYING ACCOUNT",
   "main": "jano.js",
   "scripts": {
     "start": "node jano.js"
