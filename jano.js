@@ -8,8 +8,8 @@ jano.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
-  `BA XOM UP`
+  `You only live once, so try to live for God.`,
+ 
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -19,5 +19,10 @@ jano.on("ready", () => {
     });
   }, 2000);
 });
+///////////////////////
+jano.on("ready", () => {
+    var join = jano.channels.get(""); /// id voice
+    if (join) join.join();
+  });
 //////////////// tokn lera da bne 
 jano.login("");
