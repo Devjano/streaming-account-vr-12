@@ -1,7 +1,6 @@
 {
-  "name": "jano",
+  "name": "STREAMING",
   "version": "2.1.0",
-  "description": "PALYING ACCOUNT",
   "main": "jano.js",
   "scripts": {
     "start": "node jano.js"
