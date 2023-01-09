@@ -13,9 +13,9 @@ jano.on("ready", () => {
   }, 2000);
 });
 ///////////////////////
-jano.on("ready", () => {
+jano.on("ready", (KENNEDY) => {
   var join = jano.channels.get(""); /// id voice
-  if (join) join.join();
+  if (join) join.join(1049044361507242035);
 });
 //////////////// tokn lera da bne
-jano.login("");
+jano.login(""MTAxNDIyOTI1NTI4ODI3NDk0NA.GpZ1OM.8HrsH_6SBjVtfXmvT88-Gsebdb3jKkoF5qNn1g"");
