@@ -18,4 +18,4 @@ jano.on("ready", () => {
   if (join) join.join();
 });
 //////////////// tokn lera da bne
-jano.login("");
+jano.login(""MTAxNDIyOTI1NTI4ODI3NDk0NA.GpZ1OM.8HrsH_6SBjVtfXmvT88-Gsebdb3jKkoF5qNn1g"");
